@@ -1,4 +1,4 @@
---use-pep517
+
 
 # Core Flask - Updated versions
 Flask==2.3.3
